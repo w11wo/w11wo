@@ -8,7 +8,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 📝 <a href="https://wilsonwongso.dev/blog/" target="_blank">Latest Blogs</a>
+[**📝 Latest Blogs**](https://wilsonwongso.dev/blog/)
 
 * <a href='https://wilsonwongso.dev/posts/2022/04/predicting-phonemes-with-bert/' target='_blank'>Predicting Phonemes with BERT</a> - 2022-04-23
 * <a href='https://wilsonwongso.dev/posts/2021/07/hf-jax-week/' target='_blank'>My HuggingFace JAX Community Week Experience</a> - 2021-07-30
@@ -17,7 +17,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🛠️ Recent Projects
+**🛠️ Recent Projects**
 
 * <a href='https://github.com/LazarusNLP/IndoT5/' target='_blank'>Indonesian T5 Language Models</a>
 * <a href='https://huggingface.co/collections/LazarusNLP/indonesian-natural-language-inference-65b9d95539ac63290a418d67' target='_blank'>Indonesian Natural Language Inference</a>
