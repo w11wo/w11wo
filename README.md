@@ -6,27 +6,6 @@
 
 <table>
 <tr>
-<td  colspan="2" align="center" width="100%">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w11wo&theme=tokyonight)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%" align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w11wo&theme=tokyonight)
-
-</td>
-<td valign="top" width="50%" align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=w11wo&theme=tokyonight&utcOffset=8)
-
-</td>
-</tr>
-
-<tr >
 <td valign="top" width="50%">
 
 #### 📝 <a href="https://wilsonwongso.dev/blog/" target="_blank">Latest Blogs</a>
@@ -43,6 +22,18 @@
 * <a href='https://github.com/LazarusNLP/IndoT5/' target='_blank'>Indonesian T5 Language Models</a>
 * <a href='https://huggingface.co/collections/LazarusNLP/indonesian-natural-language-inference-65b9d95539ac63290a418d67' target='_blank'>Indonesian Natural Language Inference</a>
 * <a href='https://github.com/lazarusnlp/indonesian-sentence-embeddings/' target='_blank'>Indonesian Sentence Embedding</a>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=w11wo&theme=tokyonight)
+
+</td>
+<td valign="top" width="50%" align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=w11wo&theme=tokyonight&utcOffset=8)
 
 </td>
 </tr>
