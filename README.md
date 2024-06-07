@@ -8,6 +8,7 @@
 
 #### 🛠️ Recent Projects
 
-* <a href='https://github.com/LazarusNLP/IndoT5/' target='_blank'>Indonesian T5 Language Models</a>
+* <a href='https://github.com/LazarusNLP/NusaBERT/' target='_blank'>NusaBERT: Teaching IndoBERT to be multilingual and multicultural!</a>
+* <a href='https://github.com/LazarusNLP/IndoT5/' target='_blank'>IndoT5: T5 Language Models for the Indonesian Language</a>
+* <a href='https://github.com/lazarusnlp/indonesian-sentence-embeddings/' target='_blank'>Indonesian Sentence Embedding Models</a>
 * <a href='https://huggingface.co/collections/LazarusNLP/indonesian-natural-language-inference-65b9d95539ac63290a418d67' target='_blank'>Indonesian Natural Language Inference</a>
-* <a href='https://github.com/lazarusnlp/indonesian-sentence-embeddings/' target='_blank'>Indonesian Sentence Embedding</a>
