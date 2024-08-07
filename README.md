@@ -2,6 +2,7 @@
 
 #### [📝 Latest Blogs](https://wilsonwongso.dev/blog/)
 
+* <a href='https://lazarusnlp.github.io/blogs/launch/' target='_blank'>Launching LazarusNLP: Reviving Indonesia's Dying Languages through NLP</a> - 2024-02-19
 * <a href='https://wilsonwongso.dev/posts/2022/04/predicting-phonemes-with-bert/' target='_blank'>Predicting Phonemes with BERT</a> - 2022-04-23
 * <a href='https://wilsonwongso.dev/posts/2021/07/hf-jax-week/' target='_blank'>My HuggingFace JAX Community Week Experience</a> - 2021-07-30
 * <a href='https://wilsonwongso.dev/posts/2020/08/pneumonia-chest-xray-classification/' target='_blank'>Pneumonia Chest X-Ray Classification</a> - 2020-08-31
