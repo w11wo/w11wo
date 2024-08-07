@@ -8,6 +8,7 @@
 
 #### 🛠️ Recent Projects
 
+* <a href='https://github.com/w11wo/id_sarcasm' target='_blank'>IdSarcasm: Benchmarking and Evaluating Language Models for Indonesian Sarcasm Detection</a>
 * <a href='https://github.com/LazarusNLP/NusaBERT/' target='_blank'>NusaBERT: Teaching IndoBERT to be multilingual and multicultural!</a>
 * <a href='https://github.com/LazarusNLP/IndoT5/' target='_blank'>IndoT5: T5 Language Models for the Indonesian Language</a>
 * <a href='https://github.com/lazarusnlp/indonesian-sentence-embeddings/' target='_blank'>Indonesian Sentence Embedding Models</a>
