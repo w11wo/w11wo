@@ -1,3 +1,11 @@
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilsonwong961@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=p4Xj2CYAAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/w11wo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wilsonwongso_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilson-wongso)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wilsonwongso_)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/w11wo)
+
 👋 Hi, I’m Wilson Wongso, a PhD student/machine learning engineer based in Sydney, Australia. I am passionate in open-source & low-resource Natural Language Processing (NLP) and Speech Language Processing (SLP). I ❤️ to work at the intersection of language and (open) technology.
 
 ### 🛠️ Projects
