@@ -11,6 +11,8 @@
 ### 🛠️ Projects
 
 #### 2025
+* [Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](https://github.com/cruiseresearchgroup/KDD-Cup-2025-Meta-CRAG-MM)
+* [Lazarus NLP at SemEval-2025 Task 11: Fine-Tuning Large Language Models for Multi-Label Emotion Classification via Sentence-Label Pairing](https://github.com/LazarusNLP/SemEval2025-Emotion-Analysis)
 * [Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins--Dataset and Benchmarks](https://github.com/cruiseresearchgroup/Massive-STEPS)
 * [COMODO: Cross-modal video-to-IMU distillation for efficient egocentric human activity recognition](https://github.com/cruiseresearchgroup/COMODO)
 
