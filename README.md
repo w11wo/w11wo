@@ -10,6 +10,11 @@
 
 ### 🛠️ Projects
 
+#### 2026
+* [TrajDLM: Topology-Aware Block Diffusion Language Model for Trajectory Generation](https://arxiv.org/abs/2605.10020)
+* [TrajPrism: A Multi-Task Benchmark for Language-Grounded Urban Trajectory Understanding](https://arxiv.org/abs/2605.10782)
+* [AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild](https://arxiv.org/abs/2605.22715)
+
 #### 2025
 * [Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](https://github.com/cruiseresearchgroup/KDD-Cup-2025-Meta-CRAG-MM)
 * [Lazarus NLP at SemEval-2025 Task 11: Fine-Tuning Large Language Models for Multi-Label Emotion Classification via Sentence-Label Pairing](https://github.com/LazarusNLP/SemEval2025-Emotion-Analysis)
