@@ -11,6 +11,7 @@
 ### 🛠️ Projects
 
 #### 2026
+* [Do Satellites See Commuters? A Critical Benchmark of Vision Foundation Models](https://arxiv.org/abs/2609.00661)
 * [TrajDLM: Topology-Aware Block Diffusion Language Model for Trajectory Generation](https://arxiv.org/abs/2605.10020)
 * [TrajPrism: A Multi-Task Benchmark for Language-Grounded Urban Trajectory Understanding](https://arxiv.org/abs/2605.10782)
 * [AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild](https://arxiv.org/abs/2605.22715)
